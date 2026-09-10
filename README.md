@@ -399,9 +399,3 @@ to:
 
 **"Where is performance deteriorating, when is it happening, which process stage is responsible, what evidence supports that conclusion, and what should be investigated next?"**
 
-## Author
-
-**Mahdi Aghaei**
-
-Computer Science
-Data Analysis · Operations Analytics · Machine Learning
